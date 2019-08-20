@@ -1013,9 +1013,9 @@ ul.about {
 }
 
 #profile_social a{
-    width: 100px;
+    /* width: 100px;
     height: 100px;
-    /*line-height: 45px;*/
+   line-height: 45px;*/
     margin: 0px 0px 0px 50px;
     padding: 0;
    /* border-width: 1px;
