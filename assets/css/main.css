@@ -1015,11 +1015,11 @@ ul.about {
 #profile_social a{
     width: 100px;
     height: 100px;
-    line-height: 45px;
+    /*line-height: 45px;*/
     margin: 0px 0px 0px 50px;
     padding: 0;
-    border-width: 1px;
-    border-style: solid;
+   /* border-width: 1px;
+    border-style: solid;*/
     text-align: center;
     font-size: 24px;
     float: left;
