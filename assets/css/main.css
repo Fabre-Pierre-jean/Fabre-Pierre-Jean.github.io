@@ -1011,15 +1011,15 @@ ul.about {
 
 .widget-profil #profile_social
 {
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 #profile_social a{
-     width: 100px;
-    height: 100px;
+     width: 45px;
+    height: 45px;
    line-height: 45px;
-    margin: 0px 0px 0px 20px;
-    padding-left: 50px;
+    margin: 0px 0px 0px 5px;
+    padding: 0px;
    border-width: 1px;
     border-style: solid;
     text-align: center;
