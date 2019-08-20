@@ -165,7 +165,7 @@ jQuery(document).ready(function($) {
     $contactform.submit(function() {
         $.ajax({
             type: "POST",
-            url: "php/contact.php",
+            url: "https://formspree.io/piereaupjpeje@gmail.com",
             data: $(this).serialize(),
             success: function(msg)
             {
