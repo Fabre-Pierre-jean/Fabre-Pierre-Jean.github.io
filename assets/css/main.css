@@ -374,7 +374,7 @@ h2.resp-accordion:first-child {
     .widget-profil #profile_desc{
         border-top: 0 !important;
         border-bottom: 0 !important;
-	text-align : center;
+	
     }
 
 }
@@ -394,6 +394,15 @@ h2.resp-accordion:first-child {
     position: relative;
     top: 2px;
 }
+#profile_desc p{
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    margin: 0;
+    color: #999 !important;
+    font-family: 'Lato', sans-serif;
+}
+
 p {
     font-size: 14px;
     line-height: 22px;
