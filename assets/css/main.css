@@ -374,7 +374,7 @@ h2.resp-accordion:first-child {
     .widget-profil #profile_desc{
         border-top: 0 !important;
         border-bottom: 0 !important;
-	text-align : justify;
+	text-align : center;
     }
 
 }
