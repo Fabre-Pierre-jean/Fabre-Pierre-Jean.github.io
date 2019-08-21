@@ -1022,14 +1022,13 @@ ul.about {
 {
     padding-top: 15px;
 }
-
 #profile_social a{
-     width: 45px;
+    width: 45px;
     height: 45px;
-   line-height: 45px;
-    margin: 0px 0px 0px 55px;
-    padding: 0px;
-   border-width: 1px;
+    line-height: 45px;
+    margin: 0px 0px 0px 5px;
+    padding: 0;
+    border-width: 1px;
     border-style: solid;
     text-align: center;
     font-size: 24px;
