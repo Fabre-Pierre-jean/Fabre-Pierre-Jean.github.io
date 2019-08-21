@@ -1012,7 +1012,7 @@ ul.about {
     padding-top: 15px;
 }
 
-#profile_social i{
+#profile_social a{
     width: 45px;
     height: 45px;
     line-height: 45px;
@@ -1031,7 +1031,7 @@ ul.about {
     transition: all .3s ease-in;
 }
 
-#profile_social i:hover{
+#profile_social a:hover{
     background-color: #fff;
 }
 .widget-profil .image-holder{
