@@ -1065,7 +1065,7 @@ ul.about {
         font-size: 24px;	
     }
     .widget-profil h1 {
-        font-size: 25px;
+        font-size: 18px;
         line-height: 60px;
     }
 }
@@ -1088,7 +1088,7 @@ ul.about {
 
 @media only screen and (max-width: 260px) {
     .widget-profil h1 {
-        font-size: 25px !important;
+        font-size: 18px !important;
         line-height: 39px !important;
     }
 
@@ -1123,7 +1123,7 @@ ul.about {
     }
 
     .widget-profil h1 {
-        font-size: 22px !important;
+        font-size: 18px !important;
         line-height: 39px !important;
     }
 
